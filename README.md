@@ -77,7 +77,7 @@ O script SQL para criação do banco está disponível no arquivo:
 ## 🚀 Como Usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ecommerce-db.git
+   git clone https://github.com/deivid0304/ecommerce-sql-erd.git
    cd ecommerce-db
    ```
 2. Crie o banco de dados no MySQL ou MariaDB.
